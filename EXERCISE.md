@@ -1,3 +1,4 @@
+
 # 📜 Exercise: The Gondor Tactical Dashboard
 
 **Mission:** Build a semantic, data-rich HTML dashboard for the defense of Middle-earth.
